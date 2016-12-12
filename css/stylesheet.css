@@ -1,0 +1,44 @@
+body {
+    background-image: url(http://i.imgur.com/3S4et85.png?1);
+    text-align:center;
+    width: 2000px;
+}
+
+#banner {
+	width: auto;
+	padding: auto;
+}
+
+
+nav{
+	text-align:center;
+}
+
+nav a{
+	text-decoration:none;
+	font-size: 36px;
+	color: white;
+	margin:20px;
+	padding: 5px;
+}
+
+p {
+    padding:50px;
+    font-size: 24px;
+    color: white;
+}
+
+img {
+	border:40px solid white
+}
+
+.column {
+	width: auto;
+	float: left;
+}
+
+.column-left{ float: left; width: 33%; }
+.column-right{ float: right; width: 33%; }
+.column-center{ display: inline-block; width: 33%; }
+
+
